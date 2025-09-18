@@ -1,0 +1,16 @@
+[
+  {
+    "id": "item-001",
+    "url": "https://example.com/article-1",
+    "title": "Example article 1",
+    "scraped_at": "2025-09-17T12:00:00Z",
+    "source": "example"
+  },
+  {
+    "id": "item-002",
+    "url": "https://example.com/article-2",
+    "title": "Example article 2",
+    "scraped_at": "2025-09-17T12:05:00Z",
+    "source": "example"
+  }
+]

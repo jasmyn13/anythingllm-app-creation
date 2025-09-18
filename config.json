@@ -1,0 +1,5 @@
+{
+  "exampleSetting": true,
+  "expensesFile": "expenses.json",
+  "categories": ["Food", "Rent", "Utilities"]
+}
